@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/hero.svg" alt="Webapp Map: turn a URL into pages, interface states, and motion evidence" width="100%" />
+  <img src="docs/assets/hero.svg" alt="Traceframe: turn a URL into pages, interface states, and motion evidence" width="100%" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## From browsing to evidence
 
-Revisit a product's navigation, compare its interface states, and inspect the timing behind its motion. Webapp Map brings those observations together in a local collection you can use for design research and implementation references.
+Revisit a product's navigation, compare its interface states, and inspect the timing behind its motion. Traceframe brings those observations together in a local collection you can use for design research and implementation references.
 
 | Capture | Inspect |
 | :--- | :--- |
@@ -100,7 +100,7 @@ Use them to examine durations, delays, easing, iterations, and property changes.
 
 ## Coverage and boundaries
 
-Webapp Map captures **bounded, observed behavior**. A completed run means its discovered URL queue was visited within the configured limits. It does not guarantee every page, record, role, or possible interaction has been covered.
+Traceframe captures **bounded, observed behavior**. A completed run means its discovered URL queue was visited within the configured limits. It does not guarantee every page, record, role, or possible interaction has been covered.
 
 | Included | Limits |
 | :--- | :--- |

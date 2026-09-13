@@ -1,7 +1,7 @@
-# UI Research Design
+# Traceframe Design
 
 ## Direction
-An editorial contact sheet for collecting interface evidence. Operate mode: a persistent capture form beside a wide collection of screenshots, with motion details disclosed beneath each state. Default chosen from the brief while optional user preferences are pending.
+An editorial contact sheet for collecting interface evidence. Operate mode: a persistent capture form beside a wide collection of screenshots, with motion details disclosed beneath each state. 
 
 ## System
 Warm paper, dark olive ink, and restrained green actions. Georgia titles pair with the platform's readable text face. A single border distinguishes surfaces. Tokens are defined centrally in style.css. States use visible text alongside color. Mobile stacks the capture controls above the gallery.
