@@ -1,4 +1,4 @@
-# UI Research
+# Webapp Map
 
 A local research app powered by Ego Lite. Supply a website URL and optional login, capture reachable pages and selected interface states, and inspect screenshots with recorded animation timing and keyframes.
 
